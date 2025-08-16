@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zak Lawrence"
-  pronouns         : "He/Him"# example: "she/her"  
+  pronouns         : "He/Him" # example: "she/her"  
   bio              : "Postdoctoral Researcher in Particle Physics"
   location         : "Belgium"
   employer         : "UCLouvain"
