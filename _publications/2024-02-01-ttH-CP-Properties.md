@@ -1,5 +1,5 @@
 ---
-title: "Probing the *CP* nature of the top–Higgs Yukawa coupling in \(t\bar{t}H\) and \(tH\) events with \(H\rightarrow b\bar{b}\) decays using the ATLAS detector at the LHC"
+title: "Probing the *CP* nature of the top–Higgs Yukawa coupling in $$t\bar{t}H$$ and $$tH$$ events with $$H\rightarrow b\bar{b}$$ decays using the ATLAS detector at the LHC"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-ttH-CP-Properties
