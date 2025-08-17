@@ -10,4 +10,8 @@ paperurl: 'http://zaklawrence.github.io/Zak-Lawrence.github.io/files/Probing-the
 bibtexurl: 'http://zaklawrence.github.io/Zak-Lawrence.github.io/files/Paper1.bib'
 citation: 'ATLAS Collaboration. "Probing the CP nature of the top-Higgs Yukawa coupling in ttH and tH events with H to bbdecays using the ATLAS detector at the LHC", Phys. Lett. B **849** (2024), 138469 doi:10.1016/j.physletb.2024.138469'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper discusses the main analysis that I contributed to as part of my PhD, performed as part of the ATLAS collaboration. The paper was published in [Phys. Lett. B](https://www.sciencedirect.com/science/article/pii/S0370269324000285?ref=cra_js_challenge&fr=RR-1) in Febuary 2024.  
+
+## Overview 
+---
+This paper performs the first measurement of the *CP* properties of the top-Higgs Yukawa coupling in the $H\rightarrow b\bar{b}$ decay channel. Violation of *CP* symmetry a necissary part of explaining the matter-antimatter assymmetry in the universe. 
