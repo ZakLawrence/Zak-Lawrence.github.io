@@ -13,22 +13,16 @@ I'm currently working as a Postdoctoral Researcher on the [CMS](https://cms.cern
 
 :briefcase: Profesional History
 ======
-Perviously I worked as a PhD student at the [University of Manchester](https://www.hep.manchester.ac.uk), where I was a member of the [ATLAS](https://atlas.cern) experiment. During my PhD my research focused on the CP properties of the top-Higgs coupling. Within this role I worked as one of the lead analysers of the first measurement performed at the LHC of the CP properties in the channel where the Higgs decays to a pair of bottom quarks. You can find more infomation about this analysis and the role I played in it on the [Publications page](https://zaklawrence.github.io/Zak-Lawrence.github.io/publications/). Alongside my main analysis work I was involved in calibrating the tagging algorithms used within ATLAS using the $p_T^\mathrm{rel}$ method. Again see the [Publications page](https://zaklawrence.github.io/Zak-Lawrence.github.io/publications/) for more details. 
+Perviously I worked as a PhD student at the [University of Manchester](https://www.hep.manchester.ac.uk), where I was a member of the [ATLAS](https://atlas.cern) experiment. During my PhD my research focused on the CP properties of the top-Higgs coupling. Within this role I worked as one of the lead analysers of the first measurement performed at the LHC of the CP properties in the channel where the Higgs decays to a pair of bottom quarks. You can find more infomation about this analysis and the role I played in it on the [Publications page](https://zaklawrence.github.io/Zak-Lawrence.github.io/publications/). Alongside my main analysis work I was involved in calibrating the tagging algorithms used within ATLAS using the \\(p_T^\mathrm{rel}\\) method. Again see the [Publications page](https://zaklawrence.github.io/Zak-Lawrence.github.io/publications/) for more details. 
 
-:running: Personal Intrests
+:mountain: Personal Intrests
 ======
 When I’m not working, you’ll usually find me outdoors — I love running, hiking, and cycling. I’m also a big fan of reading, and I enjoy getting together with friends for board games or a good D&D campaign.
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="/images/IMG_6024.jpg" data-lightbox="hiking-gallery" data-title="Hiking in the mountains">
-    <img src="/images/IMG_6024.jpg" alt="Image hiking" style="max-width: 30%; height: auto; border-radius: 8px;" />
-  </a>
-  <a href="/images/IMG_3174.jpg" data-lightbox="hiking-gallery" data-title="Trail adventure">
-    <img src="/images/IMG_3174.jpg" alt="Image hiking" style="max-width: 30%; height: auto; border-radius: 8px;" />
-  </a>
-  <a href="/images/IMG_8825.JPG" data-lightbox="hiking-gallery" data-title="Beautiful view">
-    <img src="/images/IMG_8825.JPG" alt="Image hiking" style="max-width: 30%; height: auto; border-radius: 8px;" />
-  </a>
+  <img src="/images/IMG_6024.jpg" alt="Image hiking" style="max-width: 30%; height: auto; border-radius: 8px;" />
+  <img src="/images/IMG_3174.jpg" alt="Image hiking" style="max-width: 30%; height: auto; border-radius: 8px;" />
+  <img src="/images/IMG_8825.JPG" alt="Image hiking" style="max-width: 15%; height: auto; border-radius: 8px;" />
 </div>
 
 
