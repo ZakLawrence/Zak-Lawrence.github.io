@@ -20,9 +20,9 @@ Perviously I worked as a PhD student at the [University of Manchester](https://w
 When I’m not working, you’ll usually find me outdoors — I love running, hiking, and cycling. I’m also a big fan of reading, and I enjoy getting together with friends for board games or a good D&D campaign.
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="images/IMG_6024.jpg" alt="Image hiking" style="max-width: 30%; height: auto; border-radius: 8px;" />
-  <img src="images/IMG_3174.jpg" alt="Image ATLAS" style="max-width: 30%; height: auto; border-radius: 8px;" />
-  <img src="images/IMG_8825.JPG" alt="Image Running" style="max-width: 15%; height: auto; border-radius: 8px;" />
+  <img src="images/IMG_6024.jpg" alt="Image hiking" style="max-width: 40%; height: auto; border-radius: 8px;" />
+  <img src="images/IMG_3174.jpg" alt="Image ATLAS" style="max-width: 40%; height: auto; border-radius: 8px;" />
+  <img src="images/IMG_8825.JPG" alt="Image Running" style="max-width: 20%; height: auto; border-radius: 8px;" />
 </div>
 
 
