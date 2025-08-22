@@ -18,17 +18,17 @@ Within this paper, we studied the one of the most fundamental interactions in pa
 Specifically we investigated if this interaction respects [**CP-symmetry**](https://en.wikipedia.org/wiki/CP_violation), a property that if violated could help explain why the universe is comprised predominantly of [matter rather than antimatter](https://en.wikipedia.org/wiki/Baryon_asymmetry). A "*CP*-odd" contribution to the top-Higgs coupling would be a clear sign of physics beyond the Standard Model.
 
 Using the **ATLAS detector** at **CERN's Large Hadron Collider**, we analysed the full Run 2 dataset (collected between 2015-2018), focusing on events where the Higgs boson is produced alongside one or two top quarks and then decays into a pair of [bottom quarks](https://en.wikipedia.org/wiki/Bottom_quark). These events are rare and challenging to identify, so we employed advanced machine learning techniques to separate the signal from the background and to build observables that are sensitive to the *CP* nature of the interaction. 
-
+ 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="images/ttHCPPaper/figaux_01a.png" alt="Image of ttH" style="max-width: 40%; height: auto; border-radius: 8px;" />
-  <img src="images/ttHCPPaper/figaux_01d.png" alt="Image of tH" style="max-width: 40%; height: auto; border-radius: 8px;" />
+  <img src="../images/ttHCPPaper/figaux_01a.png" alt="Image of ttH" style="width: 40%; height: auto; border-radius: 8px;" />
+  <img src="../images/ttHCPPaper/figaux_01d.png" alt="Image of tH" style="width: 40%; height: auto; border-radius: 8px;" />
 </div>
 
-Our analysis measured the possible mixing between the standard *CP*-even Higgs interaction and a potential $CP$-odd component. The results showed no evidence of a significant *CP*-odd contribution, with the data being consistent with the Standard Model expectations. However our measurement placed stronger constraints on how large such new physics effects could be in the top-Higgs interaction. 
+Our analysis measured the possible mixing between the standard *CP*-even Higgs interaction and a potential *CP*-odd component. The results showed no evidence of a significant *CP*-odd contribution, with the data being consistent with the Standard Model expectations. However our measurement placed stronger constraints on how large such new physics effects could be in the top-Higgs interaction. 
 
 This study helps deepen our understanding of the Higgs boson, and helps us to close the gap between theory and unanswered questions about the nature of the universe. 
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="images/ttHCPPaper/fig_01.png" alt="Image of " style="max-width: 100%; height: auto; border-radius: 8px;" />
-  <img src="images/ttHCPPaper/fig_03.png" alt="Image of tH" style="max-width: 40%; height: auto; border-radius: 8px;" />
+  <img src="../images/ttHCPPaper/fig_01.png" alt="Image of regions " style="width: 100%; height: auto; border-radius: 8px;" />
+  <img src="../images/ttHCPPaper/fig_03.png" alt="Image of cp coupling" style="width: 50%; height: auto; border-radius: 8px;" />
 </div>
