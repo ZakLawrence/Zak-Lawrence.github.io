@@ -40,3 +40,5 @@ When I’m not working, you’ll usually find me outdoors — I love running, hi
   <img src="images/IMG_3174.jpg" alt="Image ATLAS" style="max-width: 40%; height: auto; border-radius: 8px;" />
   <img src="images/IMG_8825.JPG" alt="Image Running" style="max-width: 20%; height: auto; border-radius: 8px;" />
 </div>
+
+The rest of the site is currently under constructions, to be updated soon. 
